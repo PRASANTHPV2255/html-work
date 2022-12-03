@@ -1,0 +1,27 @@
+
+
+.head{
+    font-size: 0.75rem;
+    color: rgb(163, 138, 188);
+    
+}
+.head2{
+    color: brown;
+}
+.para{
+    color:#4d3920;
+}
+.button{
+    margin-top: 7px;
+    
+}
+.button-one{
+    margin-top: 31px;
+}
+.button-two{
+    margin-top: 54px;
+}
+.h1{
+   text-align: center;
+   background-color: #d26e6e;
+}
